@@ -10,7 +10,7 @@ Porque quiero ir viendo mi progreso, practicar lo que aprendo y tener todo organ
 
 ### 👩‍💻 Autor
 
-**Roxana Naranjo**  
+**Roxana Naranjo Estrada**  
 Aprendiendo Python desde cero con RIWI y con muchas ganas 💪
 
 ---
